@@ -5,7 +5,7 @@ var obj=Bmw()
     println(obj.speed)
 
 }
-open class Car{
+ open class Car{
     var speed:Int=0
     var name:String=""
 
