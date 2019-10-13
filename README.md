@@ -16,6 +16,7 @@
 * Submit a pull request
 
 :octocat: If you have written basic kotlin code for beginners then make a pull request.I will merge it after a review.
+:octocat: Do follow the basic coding standards with proper indentation.
 
 
 ## Prerequisites :heavy_check_mark:
